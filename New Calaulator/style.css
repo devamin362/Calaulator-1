@@ -5,7 +5,8 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background:linear-gradient(130deg, rgb(1, 46, 39), rgb(163, 107, 3),rgb(121, 11, 11));
+  /* background:linear-gradient(130deg, rgb(1, 46, 39), rgb(163, 107, 3),rgb(121, 11, 11)); */
+  background-color: #0056b3;
 }
 
 .calculator {
